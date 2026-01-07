@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - M3U8 Downloader</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #333; }
+        h2 { color: #555; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Last updated: January 2026</p>
+    
+    <h2>Information We Collect</h2>
+    <p>This app uses Google AdMob to display advertisements. AdMob may collect:</p>
+    <ul>
+        <li>Device identifiers</li>
+        <li>IP address</li>
+        <li>Usage data</li>
+    </ul>
+    
+    <h2>How We Use Information</h2>
+    <p>The collected information is used to:</p>
+    <ul>
+        <li>Display personalized advertisements</li>
+        <li>Improve ad relevance</li>
+        <li>Analyze app performance</li>
+    </ul>
+    
+    <h2>Third-Party Services</h2>
+    <p>We use Google AdMob for advertising. Please review <a href="https://policies.google.com/privacy">Google's Privacy Policy</a>.</p>
+    
+    <h2>Contact</h2>
+    <p>If you have questions, contact us at: [your-email@example.com]</p>
+</body>
+</html>
